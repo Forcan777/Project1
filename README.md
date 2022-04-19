@@ -33,7 +33,9 @@ List of features ready and TODOs for future development
 ## Getting Started
 ### To clone the project to local folder
 Use the following command in the command prompt while inside the local folder of your choice
+...
 git clone https://github.com/Forcan777/Project1
+...
 
 ### To use the Database backup file 
 Below are the instruction to restore the database backup file on your SSMS:
